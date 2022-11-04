@@ -1,0 +1,6 @@
+module Pods_erpnextcrm_erpnextcrmTests {
+  umbrella header "Pods-erpnextcrm-erpnextcrmTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
